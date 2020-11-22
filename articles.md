@@ -1,8 +1,8 @@
 # 文章收集整理
 ## Android 篇
-####[袁辉辉](http://gityuan.com/archive/)
+#### [袁辉辉](http://gityuan.com/archive/)
 ### APP 启动过程
-####[APP 启动流程分析](https://juejin.cn/post/6844904116561379341)
+#### [APP 启动流程分析](https://juejin.cn/post/6844904116561379341)
 ####[APP 启动流程分析 from zygote](https://android.jlelse.eu/android-application-launch-explained-from-zygote-to-your-activity-oncreate-8a8f036864b)
 ####[启动过程源码分析](https://www.jianshu.com/p/03ec8203919e)
 ####[Android 10 源码分析](https://blog.csdn.net/yhaolpz/article/details/105347247)
